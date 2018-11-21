@@ -1,7 +1,7 @@
 # my-first-webpage
 Testing out my webpage skills .
-####last modified 21,Nov,2018
-#### **{Sarah Tuitoek}**
+last modified 21,Nov,2018
+ **{Sarah Tuitoek}**
 ## Description
 {It is my first time making a website}
 ## Set Up And Installations Processes
